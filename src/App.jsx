@@ -1,6 +1,7 @@
 import Header from "./components/Header"
 import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
+import Whybank from "./components/Whybank"
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
       <Navbar/>
       <Header/>
       <Hero/>
+      <Whybank/>
     </>
   )
 }
