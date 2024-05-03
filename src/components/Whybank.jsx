@@ -8,7 +8,7 @@ export default function Whybank() {
   return (
     <div className="m-10">
     <h1 className="text-3xl mt-16 mb-10 ml-11 font-semibold">Why bank with HSBC?</h1>
-    <div className="grid grid-cols-2 gap-10 px-5">
+    <div className="grid md:grid-cols-2 gap-10 px-5">
     <div className="flex items-center gap-5 px-5">
         <BuildingLibraryIcon className="size-24 text-main" />
         <p className="text-2xl">As one of Sri Lanka's largest banking networks, we're easy to find</p>
